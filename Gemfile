@@ -37,4 +37,18 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+ gem 'active_model_serializers'
 
+gem 'bcrypt', '~> 3.1.7'
+gem 'jwt', '~> 2.2'
+
+gem 'faker'
+
+gem 'pundit'
+
+gem 'sidekiq'
+
+gem 'json'
+
+gem 'httparty'
+gem 'dotenv-rails'
